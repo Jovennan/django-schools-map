@@ -3,6 +3,7 @@ from django.utils.translation import gettext_lazy as _
 
 LEVEL_CHOICES = [
     ('Fundamental', 'Fundamental'),
+    ('Fundamental e Médio', 'Fundamental e Médio'),
     ('Médio', 'Médio'),
     ('Superior', 'Superior'),
 ]
